@@ -2,7 +2,8 @@
 
 # **Don't Wake Up**
 
-> Made with **Unity 2023.2.12f1**
+> Made with **`Unity 2023.2.12f1`**
+> 
 > Senior Final Project for the _Video Game Design_ class, Redmond High School 2025
 
 ## Concept
