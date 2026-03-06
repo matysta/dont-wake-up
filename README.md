@@ -1,9 +1,6 @@
-> [!NOTE]
-> This project represents its final, complete version and will likely not receive further updates as I’ve moved on to other projects.
-
 <img src="https://github.com/matejstastny/dont-wake-up/blob/main/Assets/Textures/icon.png?raw=true" align="right" width="20%"  alt="Project Icon"/>
 
-# 💤 **Don't Wake Up**
+# **Don't Wake Up**
 
 > Made with **Unity 2023.2.12f1**
 > Senior Final Project for the _Video Game Design_ class, Redmond High School 2025
@@ -16,7 +13,7 @@
 - Each wave increases in intensity, with the number of enemies matching the wave count.
 - The challenge ends when all three lives are lost, causing the player to wake up.
 
-## ⚙️ Features
+## Features
 
 - 3D first-person gameplay
 - A dark dreamscape illuminated only by the flashlight
@@ -26,7 +23,7 @@
 - Melatonin gummies used as throwable weapons
 - Three lives available before the game ends
 
-## 🎮 Controls
+## Controls
 
 <ul>
   <li><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> — Move</li>
@@ -36,7 +33,7 @@
   <li><kbd>Esc</kbd> — Pause / Exit</li>
 </ul>
 
-## 📚 Resources
+## Resources
 
 - **Game specifications & rubric:** [Game Spec & Rubric (PDF)](./public/game-spec-and-rubric.pdf)
 - This project uses a Sketchfab 3D model ["Shiny_red_gumm"](https://sketchfab.com/3d-models/shiny-red-gumm-ca310c10338549df92c6cf23ba86c104) by [aguetaa](https://sketchfab.com/ArielGv) licensed under [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
